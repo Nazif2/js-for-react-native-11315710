@@ -1,0 +1,17 @@
+    * JavaScript Array Functions
+*    Description
+This repository contains simple JavaScript functions for processing arrays.
+
+Functions
+1.processArray:   
+  Determines if each number in an array is even or odd.
+     
+
+FormatArrayStrings:
+ Modifies strings based on whether the corresponding number is even or odd.
+ createUserProfiles:
+ Creates user profiles with original and modified names.
+ 
+* Usage
+1.Include the functions in your JavaScript project.
+2.Call the functions with appropriate arguments to process arrays.
